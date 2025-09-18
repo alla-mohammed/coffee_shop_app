@@ -1,20 +1,18 @@
-<<<<<<< HEAD
-# coffee_shop_app
-=======
-# shopping_app
+# Coffee Shop App
+A Flutter app showcasing coffee products with featured sections, product grid, and hot offers.
+## Features
+- Featured products carousel
+- Responsive coffee product grid
+- Add to cart functionality with SnackBar
+- Hot offers section
+- Language switcher (English/Arabic)
+## Setup Instructions
+1. Clone the repo:
+   git clone https://github.com/alla-mohammed/coffee_shop_app.git
+2. Navigate into the project directory:
+   cd <repo-name>
+3. Get dependencies:
+   flutter pub get
+4. Run the app:
+   flutter run
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> c4f4900 (coffee app)
