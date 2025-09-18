@@ -1,0 +1,30 @@
+
+{
+  "ourProducts": "منتجاتنا",
+  "hotOffers": "العروض الساخنة",
+  "fullName": "الاسم الكامل",
+  "email": "البريد الإلكتروني",
+  "password": "كلمة المرور",
+  "confirmPassword": "تأكيد كلمة المرور",
+  "createAccount": "إنشاء حساب",
+  "accountCreated": "تم إنشاء الحساب بنجاح",
+  "Coffee": "وقت القهوة",
+  "sipSavorShop": "ارتشف، تذوق، وتسوق أرقى خلطات القهوة",
+  "accountSignIn": "تم تسجيل الدخول بنجاح",
+  "close": "إغلاق",
+  "featuredProducts": "منتجات مميزة",
+  "shopOurCollection": "تسوق مجموعتنا",
+  "requiredField": "هذا الحقل مطلوب",
+  "invalidEmail": "يرجى إدخال بريد إلكتروني صالح",
+  "shortPassword": "كلمة المرور يجب أن تكون 6 أحرف على الأقل",
+  "passwordsNotMatch": "كلمتا المرور غير متطابقتين",
+  "uppercaseName": "يجب أن يبدأ الاسم بحرف كبير",
+  "signUp": "إنشاء حساب",
+  "signIn": "تسجيل الدخول",
+  "logout": "تسجيل الخروج",
+  "emailMustInclude": "يجب أن يحتوي البريد الإلكتروني على @",
+  "joinCoffeeClub": "انضم إلى نادي القهوة لدينا!",
+  "welcome": "مرحباً بعودتك!",
+  "success": "تم بنجاح"
+}
+

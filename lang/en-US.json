@@ -1,0 +1,27 @@
+{
+  "ourProducts": "Our Products",
+  "hotOffers": "Hot Offers",
+  "fullName": "Full Name",
+  "email": "Email",
+  "password": "Password",
+  "confirmPassword": "Confirm Password",
+  "createAccount": "Create Account",
+  "accountCreated": "Account created successfully",
+  "Coffee": "Coffee Time",
+  "sipSavorShop": "Sip, Savor, & Shop Exquisite Coffee Blends",
+  "accountSignIn": "Account sign-in successfully",
+  "close": "Close",
+  "featuredProducts": "Featured Products",
+  "shopOurCollection": "Shop Our Collection",
+  "requiredField": "This field is required",
+  "invalidEmail": "Please enter a valid email",
+  "shortPassword": "Password must be at least 6 characters",
+  "passwordsNotMatch": "Passwords do not match",
+  "uppercaseName": "First letter must be uppercase",
+  "signUp": "Sign Up",
+  "signIn": "Sign In",
+  "logout": "Log Out",
+  "welcome": "Welcome Back!",
+  "success":"Success"
+
+}
