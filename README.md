@@ -51,7 +51,7 @@ Coffee Shop App is a Flutter-based mobile and desktop application that allows us
 ![Sign Up validation4](screenshots/sign_up_ar_4.png)  
 
 ### Cart
-![Added to Cart](screenshots/added to cart.png)  
+![Added to Cart](screenshots/added_to_cart.png)  
 
 ### Success
 ![Success - Arabic](screenshots/success_ar.png)  
